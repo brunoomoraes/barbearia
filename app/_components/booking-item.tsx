@@ -2,8 +2,6 @@ import { Avatar, AvatarFallback, AvatarImage } from "./ui/avatar";
 import { Badge } from "./ui/badge";
 import { Card, CardContent } from "./ui/card";
 
-
-
 const BookingItem = () => {
   return (
     <Card>
